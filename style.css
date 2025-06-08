@@ -1,0 +1,18 @@
+
+.Love__You {
+    color: #ff69b4;
+    justify-content: center;
+    font-family: "My Love", sans-serif;
+    display: flex;
+    min-height: 100vh;
+    padding: 1rem;
+    margin-top: 50px;
+}
+body {
+    margin: 0;
+    background-color: black;
+    overflow: hidden;
+}
+canvas {
+    display: block;
+}
